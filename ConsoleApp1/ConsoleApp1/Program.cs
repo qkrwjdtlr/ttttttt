@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("깃허브 홈페이지에 있는거!!!3");
+            Console.WriteLine("깃허브 홈페이지에 2!!!");
         }
     }
 }
