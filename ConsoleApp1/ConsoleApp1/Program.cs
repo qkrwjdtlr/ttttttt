@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("!!!!!!!!");
+            Console.WriteLine("깃허브 홈페이지에 있는거!");
         }
     }
 }
