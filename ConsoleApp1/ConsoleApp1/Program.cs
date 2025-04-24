@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ok!asdasdasddsadsaads!!!!!!!!!!!");
+            Console.WriteLine("ok!aㅇㄴㅁ!!!!!!!!!!");
         }
     }
 }
